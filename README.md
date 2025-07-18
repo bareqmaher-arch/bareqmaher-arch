@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <!-- Animated Text Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+Coders!+%F0%9F%91%8B;Welcome+to+BAREQ+MAHER's+Profile" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Hello+Coders!+👋;Welcome+to+BAREQ+MAHER's+Profile" alt="Typing SVG" />
 
 <!-- Animated Name -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A23B72&center=true&vCenter=true&width=600&lines=Computer+Engineer;Software+Developer;IoT+Enthusiast;Linux+Administrator" alt="Typing SVG" />
@@ -104,7 +104,7 @@ class About extends BareqMaher {
 
 <!-- Animated Footer -->
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+connect+and+build+something+amazing!+🚀" alt="Typing SVG" />
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
