@@ -75,7 +75,7 @@ class About extends BareqMaher {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm experienced in **Linux Server Administration**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Hardware Programming, Web Development, or Video Editing**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Contact me: **[bareq.maher@iku.edu.iq](mailto:bareq.maher@iku.edu.iq)** | **[WhatsApp](https://wa.me/9647735320946)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The first computer bug was an actual bug - a moth trapped in Harvard Mark II computer in 1947.<br>
+
 
 <div align="center" >
 <a  href="https://github.com/bareqmaher">
