@@ -1,6 +1,16 @@
 <div align="center" width="50">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hello+Coders;Welcome+to+my+GitHub;BAREQ+MAHER" alt="Typing SVG" /> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/bareqmaher" alt="Workspace"  width="40%"/><br> 
+
+<!-- Animated Text Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+Coders!+%F0%9F%91%8B;Welcome+to+BAREQ+MAHER's+Profile" alt="Typing SVG" />
+
+<!-- Animated Name -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A23B72&center=true&vCenter=true&width=600&lines=Computer+Engineer;Software+Developer;IoT+Enthusiast;Linux+Administrator" alt="Typing SVG" />
+
+<br>
+
+<!-- Animated Working GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="230" />
+<br> 
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
@@ -11,7 +21,11 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=bareqmaher&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbareqmaher&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/BAREQ-MAHER-grey?style=flat&logo=telegram)](https://t.me/bareqmaher) <br>
+[![telegram badge](https://img.shields.io/badge/BAREQ-MAHER-grey?style=flat&logo=telegram)](https://t.me/bareqmaher)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/engbareqmaher/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://x.com/10Bariq)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9647735320946)
+<br>
 </div>
 
 <hr></hr>
@@ -59,7 +73,7 @@ class About extends BareqMaher {
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently working on **Web Development & IoT Projects**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm experienced in **Linux Server Administration**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Hardware Programming, Web Development, or Video Editing**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Contact me: **[bareq.maher@iku.edu.iq](mailto:bareq.maher@iku.edu.iq)**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Contact me: **[bareq.maher@iku.edu.iq](mailto:bareq.maher@iku.edu.iq)** | **[WhatsApp](https://wa.me/9647735320946)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The first computer bug was an actual bug - a moth trapped in Harvard Mark II computer in 1947.<br>
 
 <div align="center" >
@@ -88,6 +102,9 @@ class About extends BareqMaher {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
+<!-- Animated Footer -->
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
