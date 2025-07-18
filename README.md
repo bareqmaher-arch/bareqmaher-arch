@@ -1,6 +1,5 @@
 <div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/bareqmaher" alt="Hello Coders" width="60%"/> <br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hello+Coders;Welcome+to+my+GitHub;BAREQ+MAHER" alt="Typing SVG" /> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/bareqmaher" alt="Workspace"  width="40%"/><br> 
 
 <details>
